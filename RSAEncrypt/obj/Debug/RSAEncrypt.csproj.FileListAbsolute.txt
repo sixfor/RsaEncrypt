@@ -1,0 +1,13 @@
+C:\Users\kyllzoldyck\source\repos\RSAEncrypt\RSAEncrypt\bin\Debug\RSAEncrypt.exe.config
+C:\Users\kyllzoldyck\source\repos\RSAEncrypt\RSAEncrypt\bin\Debug\RSAEncrypt.exe
+C:\Users\kyllzoldyck\source\repos\RSAEncrypt\RSAEncrypt\bin\Debug\RSAEncrypt.pdb
+C:\Users\kyllzoldyck\source\repos\RSAEncrypt\RSAEncrypt\obj\Debug\RSAEncrypt.csprojResolveAssemblyReference.cache
+C:\Users\kyllzoldyck\source\repos\RSAEncrypt\RSAEncrypt\obj\Debug\RSAEncrypt.Properties.Resources.resources
+C:\Users\kyllzoldyck\source\repos\RSAEncrypt\RSAEncrypt\obj\Debug\RSAEncrypt.csproj.GenerateResource.Cache
+C:\Users\kyllzoldyck\source\repos\RSAEncrypt\RSAEncrypt\obj\Debug\RSAEncrypt.csproj.CoreCompileInputs.cache
+C:\Users\kyllzoldyck\source\repos\RSAEncrypt\RSAEncrypt\obj\Debug\RSAEncrypt.exe
+C:\Users\kyllzoldyck\source\repos\RSAEncrypt\RSAEncrypt\obj\Debug\RSAEncrypt.pdb
+C:\Users\kyllzoldyck\source\repos\RSAEncrypt\RSAEncrypt\obj\Debug\RSAEncrypt.Main.resources
+C:\Users\kyllzoldyck\source\repos\RSAEncrypt\RSAEncrypt\obj\Debug\RSAEncrypt.RSAKeyContainer.resources
+C:\Users\kyllzoldyck\source\repos\RSAEncrypt\RSAEncrypt\obj\Debug\RSAEncrypt.ImportRSAKeyContainer.resources
+C:\Users\kyllzoldyck\source\repos\RSAEncrypt\RSAEncrypt\obj\Debug\RSAEncrypt.DeleteRSAKeyContainer.resources
